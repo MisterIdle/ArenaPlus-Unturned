@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArenaPlus", "ArenaPlus.csproj", "{AC643835-7A79-4558-9E9B-21D9C104B579}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC643835-7A79-4558-9E9B-21D9C104B579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC643835-7A79-4558-9E9B-21D9C104B579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC643835-7A79-4558-9E9B-21D9C104B579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC643835-7A79-4558-9E9B-21D9C104B579}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97120622-A70C-4576-A73F-5EDC5FB1F0FF}
+	EndGlobalSection
+EndGlobal
